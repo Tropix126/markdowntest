@@ -208,7 +208,7 @@ Foldable text:
 
 Link to a specific part of the page:
 
-[Go To TOP](javascript:alert('XSS'))
+[Go To TOP](#javascript:alert('XSS'))
    
     Markup : [text goes here](#section_name)
               section_title<a name="section_name"></a>    

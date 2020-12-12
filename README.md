@@ -194,6 +194,7 @@ Foldable text:
 <details>
   <summary>Title 2</summary>
   <p>Content 2 Content 2 Content 2 Content 2 Content 2</p>
+  <h1>Content</h1>
 </details>
 
     Markup : <details>
